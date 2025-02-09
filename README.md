@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @Rizwan Mohammad <br/><a href="https://github.com/rimo-de">SAP BTP Architect| SAP S/4HANA On-Premise</a>, <a href="www.linkedin.com/in/shaik-rizwan-mohammad">SAP BTP Architect| SAP S/4HANA On-Premise</a></h1>
+<h1>👋 Hi, I’m @Rizwan Mohammad <br/><a href="https://github.com/rimo-de">SAP BTP Architect| SAP S/4HANA On-Premise</a>, <br/> <a href="www.linkedin.com/in/shaik-rizwan-mohammad">LinkedIn Profile</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

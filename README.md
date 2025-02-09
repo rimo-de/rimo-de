@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Rizwan Mohammad
+- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on rizwan.mohammad.de@gmail.com or +49-17666281739
 
 
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>👋 Hi, I’m @Rizwan Mohammad <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="www.linkedin.com/in/shaik-rizwan-mohammad">SAP BTP Architect| SAP S/4HANA On-Premise </a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

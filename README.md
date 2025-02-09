@@ -1,6 +1,6 @@
-<h1>👋 Hi, I’m @Rizwan Mohammad <br/><a href="https://github.com/rimo-de">SAP BTP Architect| SAP S/4HANA On-Premise</a>, <br/> <a href="www.linkedin.com/in/shaik-rizwan-mohammad">LinkedIn Profile</a></h1>
+<h1>👋 Hi, I’m @Rizwan Mohammad <br/><a href="https://github.com/rimo-de">SAP BTP Architect| SAP S/4HANA On-Premise</a>, <br/> <a href="www.linkedin.com/in/shaik-rizwan-mohammad">My LinkedIn Profile</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Project Portfolio:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)

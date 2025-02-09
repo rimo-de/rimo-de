@@ -1,9 +1,4 @@
-- 
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me on rizwan.mohammad.de@gmail.com or +49-17666281739
-
-
-<h1>👋 Hi, I’m @Rizwan Mohammad <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="www.linkedin.com/in/shaik-rizwan-mohammad">SAP BTP Architect| SAP S/4HANA On-Premise </a></h1>
+<h1>👋 Hi, I’m @Rizwan Mohammad <br/><a href="https://github.com/rimo-de">SAP BTP Architect| SAP S/4HANA On-Premise</a>, <a href="www.linkedin.com/in/shaik-rizwan-mohammad">SAP BTP Architect| SAP S/4HANA On-Premise</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

@@ -25,7 +25,4 @@
 <img align="left" alt="Rizwan Mohammad | LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="www.linkedin.com/in/shaik-rizwan-mohammad"></a>
 <img align="left" alt="Rizwan Mohammad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-//[twitter]: https://twitter.com/joshmadakor
-//[youtube]: https://www.youtube.com/c/joshmadakor
-//[instagram]: https://www.instagram.com/joshmadakor/
-//[linkedin]: <a href="www.linkedin.com/in/shaik-rizwan-mohammad">My LinkedIn Profile</a>
+

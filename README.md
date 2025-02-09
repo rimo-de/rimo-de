@@ -22,7 +22,11 @@
 
 <img align="left" alt="Rizwan Mohammad | YouTube"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <img align="left" alt="Rizwan Mohammad | Twitter"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<img align="left" alt="Rizwan Mohammad | LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="www.linkedin.com/in/shaik-rizwan-mohammad"></a>
+<img align="left" alt="Rizwan Mohammad | LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[LinkedIn] 
 <img align="left" alt="Rizwan Mohammad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
+<a href="www.linkedin.com/in/shaik-rizwan-mohammad"></a>
 
 

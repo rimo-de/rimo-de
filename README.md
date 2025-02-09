@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @Rizwan Mohammad <br/><a href="https://github.com/rimo-de">SAP BTP Architect| SAP S/4HANA On-Premise</a>, <br/> <a href="www.linkedin.com/in/shaik-rizwan-mohammad">My LinkedIn Profile</a></h1>
+<h1>👋 Hi, I’m @Rizwan Mohammad <br/><a href="https://github.com/rimo-de">SAP BTP Architect| SAP S/4HANA On-Premise</a>, <br/> </h1>
 
 <h2>👨‍💻 Project Portfolio:</h2>
 
@@ -20,12 +20,12 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<img align="left" alt="Rizwan Mohammad | YouTube"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<img align="left" alt="Rizwan Mohammad | Twitter"   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<img align="left" alt="Rizwan Mohammad | LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="www.linkedin.com/in/shaik-rizwan-mohammad"></a>
+<img align="left" alt="Rizwan Mohammad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+//[twitter]: https://twitter.com/joshmadakor
+//[youtube]: https://www.youtube.com/c/joshmadakor
+//[instagram]: https://www.instagram.com/joshmadakor/
+//[linkedin]: <a href="www.linkedin.com/in/shaik-rizwan-mohammad">My LinkedIn Profile</a>

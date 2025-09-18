@@ -6,7 +6,7 @@
   - [End to End customisation on S4HANA](https://github.com/rimo-de/SAP-BRIM-FICA.git)
 
 - <b>Cloud Development & DevOps</b>
-  - [Linux Commands](https://github.com/rimo-de/linux-commands.git)
+  - [Basic Linux Commands](https://github.com/rimo-de/linux-commands.git)
 - <b>Business Rules Framework Plus</b>
   - [German Taxation handled with BRF+)](https://github.com/rimo-de/SAP-BRF-Plus.git)
 

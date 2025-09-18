@@ -1,6 +1,9 @@
 <h1>👋 Hi, I’m @Rizwan Mohammad <br/><a href="https://github.com/rimo-de">SAP BTP Developer| SAP S/4HANA On-Premise</a>, <br/> </h1>
 
-<h2>👨‍💻 Project Portfolio:</h2>
+<h2>👨‍💻 Personal Portfolio:</h2>
+
+- <b>SAP BRIM & SAP FICA Business Processes</b>
+  - [End to End customisation on S4HANA](https://github.com/rimo-de/SAP-BRIM-FICA.git)
 
 - <b>Cloud Development & DevOps</b>
   - [Linux Commands](https://github.com/joshmadakor1/Sentinel-Lab)

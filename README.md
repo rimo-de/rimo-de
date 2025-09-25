@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Personal Portfolio:</h2>
 
+- <b>SAP RAP Application (Managed) on Cloud environment</b>
+  - [Development details](https://github.com/rimo-de/rap_app_on_cloud_environment.git)
 - <b>SAP BRIM & SAP FICA Business Processes</b>
   - [End to End customisation on S4HANA](https://github.com/rimo-de/SAP-BRIM-FICA.git)
 - <b>Cloud Development & DevOps</b>

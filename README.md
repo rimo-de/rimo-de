@@ -4,7 +4,6 @@
 
 - <b>SAP BRIM & SAP FICA Business Processes</b>
   - [End to End customisation on S4HANA](https://github.com/rimo-de/SAP-BRIM-FICA.git)
-
 - <b>Cloud Development & DevOps</b>
   - [Basic Linux Commands](https://github.com/rimo-de/linux-commands.git)
 - <b>Business Rules Framework Plus</b>
